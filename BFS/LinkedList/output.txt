@@ -1,0 +1,119 @@
+
+Enter the no of vertices in a graph:8
+
+Enter the no of edges in a graph:11
+
+Enter the edge-1
+Enter the source vertex of edge:0
+
+Enter the Destination vertex of edge:1
+
+Enter the edge-2
+Enter the source vertex of edge:0
+
+Enter the Destination vertex of edge:2
+
+Enter the edge-3
+Enter the source vertex of edge:0
+
+Enter the Destination vertex of edge:3
+
+Enter the edge-4
+Enter the source vertex of edge:1
+
+Enter the Destination vertex of edge:4
+
+Enter the edge-5
+Enter the source vertex of edge:2
+
+Enter the Destination vertex of edge:5
+
+Enter the edge-6
+Enter the source vertex of edge:4
+
+Enter the Destination vertex of edge:5
+
+Enter the edge-7
+Enter the source vertex of edge:4
+
+Enter the Destination vertex of edge:6
+
+Enter the edge-8
+Enter the source vertex of edge:4
+
+Enter the Destination vertex of edge:7
+
+Enter the edge-9
+Enter the source vertex of edge:5
+
+Enter the Destination vertex of edge:6
+
+Enter the edge-10
+Enter the source vertex of edge:5
+
+Enter the Destination vertex of edge:7
+
+Enter the edge-11
+Enter the source vertex of edge:6
+
+Enter the Destination vertex of edge:7
+
+ Adjacency list of vertex 0
+ 3 -> 2 -> 1 ->
+
+ Adjacency list of vertex 1
+ 4 -> 0 ->
+
+ Adjacency list of vertex 2
+ 5 -> 0 ->
+
+ Adjacency list of vertex 3
+ 0 ->
+
+ Adjacency list of vertex 4
+ 7 -> 6 -> 5 -> 1 -> 
+
+ Adjacency list of vertex 5
+ 7 -> 6 -> 4 -> 2 ->
+
+ Adjacency list of vertex 6
+ 7 -> 5 -> 4 ->
+
+ Adjacency list of vertex 7
+ 6 -> 5 -> 4 ->
+
+Queue contains
+0
+Resetting queue
+
+Visited 0
+
+Queue contains
+3       2       1
+Visited 3
+
+Queue contains
+2       1
+Visited 2
+
+Queue contains
+1       5
+Visited 1
+
+Queue contains
+5       4
+Visited 5
+
+Queue contains
+4       7       6
+Visited 4
+
+Queue contains
+7       6
+Visited 7
+
+Queue contains
+6
+Resetting queue
+
+Visited 6

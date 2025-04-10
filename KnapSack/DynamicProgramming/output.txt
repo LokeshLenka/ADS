@@ -1,0 +1,41 @@
+PS D:\2-2\ads\knapsack\dynamicprogramming> ./a.exe
+Enter number of items:5
+Enter value and weight of items:
+
+Item-1 Value:30
+
+Item-1 Weight:3
+
+Item-5 Value:22
+
+Item-5 Weight:8
+
+Enter size of knapsack:25
+
+Item-5 Value:22
+
+Item-5 Weight:8
+
+Enter size of knapsack:25
+
+Item-5 Weight:8
+0       0       0       30      30      30      30      30      30      30      30  30       30      30      30      30      30      30      30      30      0       0   030      30      30
+0       0       0       30      30      30      30      42      42      42      42  42       42      42      42      42      42      42      42      42      0       0   030      30      30
+0       0       0       30      30      30      30      42      42      42      56  56       56      86      86      86      86      98      98      98      0       0   030      30      30
+0       0       0       30      30      30      30      42      42      42      56  56       56      86      86      86      86      98      98      98      0       0   030      30      30
+0       0       0       30      30      30      30      42      42      42      56  56       56      86      86      86      86      98      98      98      78      108 108      108     108     120
+
+items=5         Capacity=25     profit=120
+
+items=4         Capacity=17     profit=98
+
+items=3         Capacity=17     profit=98
+
+items=2         Capacity=7      profit=42
+
+items=1         Capacity=3      profit=30
+
+items=0         Capacity=0      profit=0
+
+Solution is: (1, 1, 1, 0, 1, )
+

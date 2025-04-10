@@ -1,0 +1,50 @@
+
+Enter the no of vertices in graph:6
+
+Enter the 1 if edge else 0 if no edge
+Enter the value for edge from 1 to 1:0
+Enter the value for edge from 1 to 2:1
+Enter the value for edge from 1 to 3:1
+Enter the value for edge from 1 to 4:1
+Enter the value for edge from 1 to 5:0
+Enter the value for edge from 1 to 6:0
+Enter the value for edge from 2 to 1:1
+Enter the value for edge from 2 to 2:0
+Enter the value for edge from 2 to 3:1
+Enter the value for edge from 2 to 4:0
+Enter the value for edge from 2 to 5:1
+Enter the value for edge from 2 to 6:0
+Enter the value for edge from 3 to 1:1
+Enter the value for edge from 3 to 2:1
+Enter the value for edge from 3 to 3:
+0
+Enter the value for edge from 3 to 4:1
+Enter the value for edge from 3 to 5:1
+Enter the value for edge from 3 to 6:1
+Enter the value for edge from 4 to 1:1
+Enter the value for edge from 4 to 2:0
+Enter the value for edge from 4 to 3:1
+Enter the value for edge from 4 to 4:0
+Enter the value for edge from 4 to 5:0
+Enter the value for edge from 4 to 6:1
+Enter the value for edge from 5 to 1:0
+Enter the value for edge from 5 to 2:1
+Enter the value for edge from 5 to 3:1
+Enter the value for edge from 5 to 4:0
+Enter the value for edge from 5 to 5:0
+Enter the value for edge from 5 to 6:1
+Enter the value for edge from 6 to 1:0
+Enter the value for edge from 6 to 2:0
+Enter the value for edge from 6 to 3:1
+Enter the value for edge from 6 to 4:1
+Enter the value for edge from 6 to 5:1
+Enter the value for edge from 6 to 6:0
+
+Visiting vertices order is
+
+1       1
+2       2
+3       3
+4       4
+5       6
+6       5

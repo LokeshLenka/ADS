@@ -1,0 +1,93 @@
+
+Enter the no of vertices in Graph:8
+
+Enter the no of Edges in Graph:11
+
+Enter the source vertex and destination vertex for EDGE
+
+enter the EDGE-1:
+Enter the source vertex:0
+
+Enter the Destination vertex:1
+
+enter the EDGE-2:
+Enter the source vertex:0
+
+Enter the Destination vertex:2
+
+enter the EDGE-3:
+Enter the source vertex:0
+
+Enter the Destination vertex:3
+
+enter the EDGE-4:
+Enter the source vertex:1
+
+Enter the Destination vertex:4
+
+enter the EDGE-5:
+Enter the source vertex:2
+
+Enter the Destination vertex:5
+
+enter the EDGE-6:
+Enter the source vertex:4
+
+Enter the Destination vertex:5
+
+enter the EDGE-7:
+Enter the source vertex:4
+
+Enter the Destination vertex:6
+
+enter the EDGE-8:
+Enter the source vertex:4
+
+Enter the Destination vertex:7
+
+enter the EDGE-9:
+Enter the source vertex:5
+
+Enter the Destination vertex:6
+
+enter the EDGE-10:
+Enter the source vertex:5
+
+Enter the Destination vertex:7
+
+enter the EDGE-11:
+Enter the source vertex:6
+
+Enter the Destination vertex:7
+
+ Adjacency list of vertex 0
+ 3 -> 2 -> 1 ->
+
+ Adjacency list of vertex 1
+ 4 -> 0 ->
+
+ Adjacency list of vertex 2
+ 5 -> 0 ->
+
+ Adjacency list of vertex 3
+ 0 ->
+
+ Adjacency list of vertex 4
+ 7 -> 6 -> 5 -> 1 ->
+
+ Adjacency list of vertex 5
+ 7 -> 6 -> 4 -> 2 ->
+
+ Adjacency list of vertex 6
+ 7 -> 5 -> 4 ->
+
+ Adjacency list of vertex 7
+ 6 -> 5 -> 4 ->
+Visited 0
+Visited 3
+Visited 2
+Visited 5
+Visited 7
+Visited 6
+Visited 4
+Visited 1
