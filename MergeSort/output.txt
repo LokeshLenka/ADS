@@ -1,0 +1,16 @@
+
+Enter the size of array:8
+
+Enter the elements:
+53
+7
+29
+84
+13
+41
+68
+12
+
+After sorting elements are:
+7       12      13      29      41      53      68      84
+Count=17

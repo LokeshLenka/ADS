@@ -1,0 +1,15 @@
+Enter the size of array:8
+
+Enter the elements:
+35
+92
+14
+57
+63
+81
+48
+26
+
+after sorting elements are:
+14      26      35      48      57      63      81      92
+count=22
